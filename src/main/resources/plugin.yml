@@ -1,0 +1,4 @@
+name: AutoUpdateServerJars
+version: '1.0'
+main: nap.ausj.AutoUpdateServerJars
+api-version: '1.21'
